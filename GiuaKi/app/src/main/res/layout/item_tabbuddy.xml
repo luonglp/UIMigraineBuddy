@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:minHeight="80dp">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/cloud"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="200dp"
+            android:id="@+id/titlebuddy"
+            android:layout_height="wrap_content"
+            android:text="Hồ Chí Minh Buddy"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+        <TextView
+            android:layout_width="200dp"
+            android:id="@+id/descriptionbuddy"
+            android:layout_height="wrap_content"
+            android:text="17 Migraine Buddy users in your city. Invite 133 more users for migraine prediction"
+            android:textSize="15dp"/>
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:gravity="right"
+        android:layout_margin="10dp"
+        android:text="Just Now"/>
+
+</LinearLayout>

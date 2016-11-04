@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_export"
+            android:title="EXPORT"
+            />
+        <item
+            android:id="@+id/nav_feedback"
+            android:title="LEAVE FEEDBACK" />
+        <item
+            android:id="@+id/nav_rateus"
+            android:title="RATE US STARS" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="SETTINGS" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="MY PROFILE" />
+        <item
+            android:id="@+id/nav_uses"
+            android:title="HOW TO USES" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="ABOUT" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="LOGOUT" />
+    </group>
+
+</menu>
