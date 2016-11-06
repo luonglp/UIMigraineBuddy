@@ -1,0 +1,5 @@
+developer, "TabHost," [Online]. Available: https://developer.android.com/reference/android/widget/TabHost.html.
+androidexample, "How To Create A Custom Listview - Android Example," [Online]. Available: http://androidexample.com/How_To_Create_A_Custom_Listview_-_Android_Example/index.php?view=article_discription&aid=67.
+Computer Science Tutorials, " The Navigation Drawer," [Online]. Available: https://www.youtube.com/watch?v=5b6AGSh4dVE.
+developer, "Dialogs," [Online]. Available: https://developer.android.com/guide/topics/ui/dialogs.html.
+developer, "CalendarView," [Online]. Available: https://developer.android.com/reference/android/widget/CalendarView.html.
